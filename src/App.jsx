@@ -859,7 +859,7 @@ function App() {
 
     <HashRouter >
         <Routes>
-              <Route path='/' element={<Cource showCaseData={showCaseData} headerData={headerData} successData = {successData} inp = "noe" img="./src/assets/Images/PWSkills-logo.png" btnstyle={btnstyles} mystyle={mystyle} login="Login/Register"  coursesData={coursesData} ecosystemData = {ecosystemData} OurAchivementData={OurAchivementData} freqAskQus={freqAskQus} />
+              <Route path='/' element={<Cource showCaseData={showCaseData} headerData={headerData} successData = {successData} inp = "noe" img="./Images/PWSkills-logo.png" btnstyle={btnstyles} mystyle={mystyle} login="Login/Register"  coursesData={coursesData} ecosystemData = {ecosystemData} OurAchivementData={OurAchivementData} freqAskQus={freqAskQus} />
 }></Route>
               <Route path='/pwskillslab' element={    <PWSkillsLab headerData={headerData} inp = "none" img={img} btnstyle={btnstyle} mystyle={mystyle} login="Login" dhinchakLabData={dhinchakLabData}/>
 }></Route>
