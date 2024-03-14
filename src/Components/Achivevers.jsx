@@ -3,7 +3,7 @@ import React from 'react'
 const Achivevers = ({achiversData}) => {
     const myStyle = {
         backgroundImage:
-            "url('./src/assets/Images/company-illustration.svg')",
+            "url('./Images/company-illustration.svg')",
         height: "fit-Content",
         marginTop: "-70px",
         fontSize: "50px",

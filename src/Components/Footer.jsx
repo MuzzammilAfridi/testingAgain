@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className='bg-[#1B2124] pl-7 items-start flex flex-col gap-5 py-10 text-white sm:grid sm:grid-cols-3  '>
       <div className='flex flex-col gap-3 items-start'>
-      <img className='h-12' src="./src/assets/Images/PWSkills-white.png" alt="img" />
+      <img className='h-12' src="./Images/PWSkills-white.png" alt="img" />
       <p>support@pwskills.com</p>
       <p>+918867917516</p>
 
@@ -14,7 +14,7 @@ const Footer = () => {
         <span>Logo</span>
       </div>
 
-      <img className='mt-5' src="./src/assets/Images/iso-9001-2015.svg" alt="img" />
+      <img className='mt-5' src="./Images/iso-9001-2015.svg" alt="img" />
 
       </div>
 <div>

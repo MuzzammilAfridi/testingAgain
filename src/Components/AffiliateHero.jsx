@@ -11,7 +11,7 @@ const AffiliateHero = () => {
             </div>
         </div>
         <div className="w-[80vw]  sm:mt-14 mx-auto">
-            <img src="./src/assets/Images/hero-right.png" alt="img" />
+            <img src="./Images/hero-right.png" alt="img" />
         </div>
     </div>
 

@@ -21,8 +21,8 @@ What are we waiting for ? Let's push Start!
         <button className="bg-[#D2614B] py-3 text-white rounded-xl sm:w-[200px] hover:bg-[#c53418]">Explore Course</button>
       </div>
       <div className="sm:w-[40vw] w-[70vw] mt-[30vh] sm:mt-10 min-h-fit flex items-center justify-center relative">
-        <img className="absolute " src="./src/assets/Images/hero-shadow.png" alt="img" />
-        <img className="absolute"  src="./src/assets/Images/hero-bg.png" alt="img" />
+        <img className="absolute " src="./Images/hero-shadow.png" alt="img" />
+        <img className="absolute"  src="./Images/hero-bg.png" alt="img" />
       </div>
     </div>
   );

@@ -22,7 +22,7 @@ const DhinchakLab = ({dhinchakLabData}) => {
 
 
         <div className="pb-5">
-            <img src="./src/assets/Images/startlab-bg.png" alt="img" />
+            <img src="./Images/startlab-bg.png" alt="img" />
             <p className='text-center text-2xl'>Experience PW Skills Labs for Limitless Learning</p>
             <button className='bg-[#B058AC] relative left-[30vw] px-7 sm:px-10 py-4 text-xl my-5 rounded-lg sm:left-[40vw]'>Start your lab</button>
         </div>

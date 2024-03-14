@@ -4,11 +4,11 @@ const Login = () => {
   return (
     <div className='flex ml-7 '>
        <div className="hidden sm:block    w-[65vw] h-screen bg-[#F8FAFB] ">
-        <img className='w-full h-full  ' src="./src/assets/Images/signin-banner.svg" alt="" />
+        <img className='w-full h-full  ' src="./Images/signin-banner.svg" alt="" />
        </div>
        <div className="flex flex-col text-center gap-10 sm:px-8">
             <div className="">
-                <img className='h-14 mt-9' src="./src/assets/Images/PWSkills-logo.png" alt="img" />
+                <img className='h-14 mt-9' src="./Images/PWSkills-logo.png" alt="img" />
             </div>
             <div className="">
                 <h3 className='text-4xl font-semibold  mb-4 text-start'>Get Onboard and jumpstart your career!</h3>
@@ -20,7 +20,7 @@ const Login = () => {
             </div>
             <p className='sm:mr-52 mr-14 -mt-5 '>OR</p>
             <div className="sm:ml-[37px] sm:items-center ml-6   sm:justify-center gap-2 flex border mb-10 -mt-8 rounded-lg w-fit py-3 px-7">
-              <img className='h-6 mt-1 ' src="./src/assets/Images/download.png" alt="" />
+              <img className='h-6 mt-1 ' src="./Images/download.png" alt="" />
               <p>Sign in with Google</p>
             </div>
        </div>

@@ -18,11 +18,11 @@ const Guiding = () => {
         </div>
 
         <div className="grid my-10 grid-cols-2 sm:grid-cols-3 gap-5 w-[250px] sm:w-[350px]">
-            <img className='h-[60px]' src="./src/assets/Images/amazon-logo.svg" alt="img" />
-            <img src="./src/assets/Images/google-logo.svg" alt="img" />
-            <img src="./src/assets/Images/walmart-logo.svg" alt="img" />
-            <img src="./src/assets/Images/microsoft-logo.svg" alt="img" />
-            <img src="./src/assets/Images/linkedin-logo.svg" alt="img" />
+            <img className='h-[60px]' src="./Images/amazon-logo.svg" alt="img" />
+            <img src="./Images/google-logo.svg" alt="img" />
+            <img src="./Images/walmart-logo.svg" alt="img" />
+            <img src="./Images/microsoft-logo.svg" alt="img" />
+            <img src="./Images/linkedin-logo.svg" alt="img" />
         </div>
         <p className='text-[#C88A32] mb-7'>& more...</p>
         <a className='text-black  bg-white p-3 rounded-lg' href="#">Explore</a>
@@ -30,7 +30,7 @@ const Guiding = () => {
         <a className='text-lg font-semibold relative top-7 text-white' href="#">SKIP</a>
 </div>
         <div className=" flex h-full items-center ">
-          <img className='sm:h-full sm:w-[48vw] relative top-48 md:top-0 sm:left-28' src="./src/assets/Images/images.jpg" alt="" />
+          <img className='sm:h-full sm:w-[48vw] relative top-48 md:top-0 sm:left-28' src="./Images/images.jpg" alt="" />
         </div>
 
         <div className="h-[320px] sm:flex mt-5 items-center justify-center -translate-x-1/2 -translate-y-1/2 hidden w-[320px] bg-[#398DC8] rounded-full absolute top-1/2 left-1/2">
@@ -53,11 +53,11 @@ const Guiding = () => {
        </div>
 
        <div className="grid my-10 grid-cols-2 sm:grid-cols-3 gap-5 w-[250px] sm:w-[350px]">
-           <img className='h-[60px]' src="./src/assets/Images/amazon-logo.svg" alt="img" />
-           <img src="./src/assets/Images/google-logo.svg" alt="img" />
-           <img src="./src/assets/Images/walmart-logo.svg" alt="img" />
-           <img src="./src/assets/Images/microsoft-logo.svg" alt="img" />
-           <img src="./src/assets/Images/linkedin-logo.svg" alt="img" />
+           <img className='h-[60px]' src="./Images/amazon-logo.svg" alt="img" />
+           <img src="./Images/google-logo.svg" alt="img" />
+           <img src="./Images/walmart-logo.svg" alt="img" />
+           <img src="./Images/microsoft-logo.svg" alt="img" />
+           <img src="./Images/linkedin-logo.svg" alt="img" />
        </div>
        <p className='text-[#C88A32] mb-7'>& more...</p>
        <a className='text-black  bg-white p-3 rounded-lg' href="#">Explore</a>
@@ -65,7 +65,7 @@ const Guiding = () => {
        <a className='text-lg font-semibold relative top-7 text-white' href="#">SKIP</a>
 </div>
        <div className=" flex h-full items-center ">
-         <img className='sm:h-full sm:w-[48vw] relative top-48 md:top-0 sm:left-28' src="./src/assets/Images/images.jpg" alt="" />
+         <img className='sm:h-full sm:w-[48vw] relative top-48 md:top-0 sm:left-28' src="./Images/images.jpg" alt="" />
        </div>
 
        <div className="h-[320px] sm:flex mt-5 items-center justify-center -translate-x-1/2 -translate-y-1/2 hidden w-[320px] bg-[#79BE43] rounded-full absolute top-1/2 left-1/2">
@@ -88,11 +88,11 @@ const Guiding = () => {
        </div>
 
        <div className="grid my-10 grid-cols-2 sm:grid-cols-3 gap-5 w-[250px] sm:w-[350px]">
-           <img className='h-[60px]' src="./src/assets/Images/amazon-logo.svg" alt="img" />
-           <img src="./src/assets/Images/google-logo.svg" alt="img" />
-           <img src="./src/assets/Images/walmart-logo.svg" alt="img" />
-           <img src="./src/assets/Images/microsoft-logo.svg" alt="img" />
-           <img src="./src/assets/Images/linkedin-logo.svg" alt="img" />
+           <img className='h-[60px]' src="./Images/amazon-logo.svg" alt="img" />
+           <img src="./Images/google-logo.svg" alt="img" />
+           <img src="./Images/walmart-logo.svg" alt="img" />
+           <img src="./Images/microsoft-logo.svg" alt="img" />
+           <img src="./Images/linkedin-logo.svg" alt="img" />
        </div>
        <p className='text-[#C88A32] mb-7'>& more...</p>
        <a className='text-black  bg-white p-3 rounded-lg' href="#">Explore</a>
@@ -100,7 +100,7 @@ const Guiding = () => {
        <a className='text-lg font-semibold relative top-7 text-white' href="#">SKIP</a>
 </div>
        <div className=" flex h-full items-center ">
-         <img className='sm:h-full sm:w-[48vw] relative top-48 md:top-0 sm:left-28' src="./src/assets/Images/images.jpg" alt="" />
+         <img className='sm:h-full sm:w-[48vw] relative top-48 md:top-0 sm:left-28' src="./Images/images.jpg" alt="" />
        </div>
 
        <div className="h-[320px] sm:flex mt-5 items-center justify-center -translate-x-1/2 -translate-y-1/2 hidden w-[320px] bg-[#CF6A5D] rounded-full absolute top-1/2 left-1/2">
@@ -122,11 +122,11 @@ const Guiding = () => {
         </div>
 
         <div className="grid my-10 grid-cols-2 sm:grid-cols-3 gap-5 w-[250px] sm:w-[350px]">
-            <img className='h-[60px]' src="./src/assets/Images/amazon-logo.svg" alt="img" />
-            <img src="./src/assets/Images/google-logo.svg" alt="img" />
-            <img src="./src/assets/Images/walmart-logo.svg" alt="img" />
-            <img src="./src/assets/Images/microsoft-logo.svg" alt="img" />
-            <img src="./src/assets/Images/linkedin-logo.svg" alt="img" />
+            <img className='h-[60px]' src="./Images/amazon-logo.svg" alt="img" />
+            <img src="./Images/google-logo.svg" alt="img" />
+            <img src="./Images/walmart-logo.svg" alt="img" />
+            <img src="./Images/microsoft-logo.svg" alt="img" />
+            <img src="./Images/linkedin-logo.svg" alt="img" />
         </div>
         <p className='text-[#C88A32] mb-7'>& more...</p>
         <a className='text-black  bg-white p-3 rounded-lg' href="#">Explore</a>
@@ -134,7 +134,7 @@ const Guiding = () => {
         <a className='text-lg font-semibold relative top-7 text-white' href="#">SKIP</a>
 </div>
         <div className=" flex h-full items-center ">
-          <img className='sm:h-full sm:w-[48vw] relative top-48 md:top-0 sm:left-28' src="./src/assets/Images/images.jpg" alt="" />
+          <img className='sm:h-full sm:w-[48vw] relative top-48 md:top-0 sm:left-28' src="./Images/images.jpg" alt="" />
         </div>
 
         <div className="h-[320px] sm:flex mt-5 items-center justify-center -translate-x-1/2 -translate-y-1/2 hidden w-[320px] bg-[#C779E2] rounded-full absolute top-1/2 left-1/2">

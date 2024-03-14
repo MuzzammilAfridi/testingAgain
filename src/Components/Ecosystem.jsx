@@ -24,7 +24,7 @@ const Ecosystem = ({ecosystemData}) => {
        
        
         <div className="absolute right-5 hidden sm:block mt-[30vh] ">
-                <img className='h-[74vh]' src="./src/assets/Images/explore.jpg" alt="" />
+                <img className='h-[74vh]' src="./Images/explore.jpg" alt="" />
         </div>
         </div>
    

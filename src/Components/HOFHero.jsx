@@ -9,7 +9,7 @@ const HOFHero = () => {
             <button className='bg-[#4437B8] w-fit px-5 py-3 rounded-xl'>Share your story</button>
         </div>
         <div className="w-[50vw] hidden sm:flex  justify-">
-            <img className='p-5 ml-10 mb-5' src="./src/assets/Images/hall-of-fame-hero-img.svg" alt="" />
+            <img className='p-5 ml-10 mb-5' src="./Images/hall-of-fame-hero-img.svg" alt="" />
         </div>
     </div>
   )

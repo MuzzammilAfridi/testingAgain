@@ -13,7 +13,7 @@ const Nav = ({navData, req}) => {
     <div className='min-h-fit  border border-gray-400'>
    <div className='flex pl-[3vw] justify-between items-center'>
    <div className="h-[10vh]  flex items-center justify-center ">
-    <img className='h-full' src="./src/assets/Images/PWSkills-logo.png" alt="" />
+    <img className='h-full' src="./Images/PWSkills-logo.png" alt="" />
    </div>
 
      <nav className='sm:flex  w-[85vw] h-[18vh] px-12 items-center hidden justify-between  gap-5 text-lg'>

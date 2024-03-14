@@ -15,7 +15,7 @@ const JobHero = () => {
         </div>
         </div>
         <div className="w-[30vw] hidden sm:block py-4">
-            <img className='h-[80vh] w-[90%] ' src="./src/assets/Images/hero-banner-grid-mobile.png" alt="" />
+            <img className='h-[80vh] w-[90%] ' src="./Images/hero-banner-grid-mobile.png" alt="" />
         </div>
       
     </div>

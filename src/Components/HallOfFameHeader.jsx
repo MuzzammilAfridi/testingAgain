@@ -12,7 +12,7 @@ const HallOfFameHeader = () => {
   return (
     <div className='sm:h-[28vh] min-h-[17vh] bg-transparent sm:px-16 px-6 shadow-lg' >
     <div className="flex items-center justify-between h-1/2">
-    <img className='sm:h-3/4 h-[12vh] ' src="./src/assets/Images/PWSkills-white.png" alt="" />
+    <img className='sm:h-3/4 h-[12vh] ' src="./Images/PWSkills-white.png" alt="" />
       
 
         <button className='text-white hidden bg-[#5A4BDA] px-10 py-3 rounded-xl text-xl sm:inline-block' >Login</button>

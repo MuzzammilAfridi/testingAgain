@@ -17,11 +17,11 @@ const SuccessCard = () => {
             <div className="flex justify-between px-4 py-5 sm:w-[265px] w-[80vw]">
                 <div className="">
                     <p className='text-lg font-semibold mb-2'>From</p>
-                    <img className='w-[90px]' src="./src/assets/Images/ine.png" alt="img" />
+                    <img className='w-[90px]' src="./Images/ine.png" alt="img" />
                 </div>
                 <div className="">
                     <p className='text-lg font-semibold'>To</p>
-                    <img className='h-[60px] sm:w-[100px]' src="./src/assets/Images/tata.png" alt="img" />
+                    <img className='h-[60px] sm:w-[100px]' src="./Images/tata.png" alt="img" />
                 </div>
             </div>
         </div>

@@ -13,19 +13,19 @@ function App() {
   const showCaseData = [
     {
       id:'1',
-      img: './src/assets/Images/statistics1.png',
+      img: './Images/statistics1.png',
       percentage: '55%',
       detail: 'Average Salary Hike'
     },
     {
       id:'2',
-      img: './src/assets/Images/statistics2.png',
+      img: './Images/statistics2.png',
       percentage: '600+',
       detail: 'Different Courses'
     },
     {
       id:'3',
-      img: './src/assets/Images/statistics3.png',
+      img: './Images/statistics3.png',
       percentage: '12000+',
       detail: 'Career Transitions'
     },
@@ -35,7 +35,7 @@ function App() {
   const coursesData = [
     {
       id:'1',
-      img:'./src/assets/Images/decode.png',
+      img:'./Images/decode.png',
       batchName:'Decode Python with DSA Course',
       faculties: 'Vishwa Mohan and 1 more',
       startingDate: 'Starts on 10 Mar 2024',
@@ -43,7 +43,7 @@ function App() {
     },
     {
       id:'2',
-      img:'./src/assets/Images/java-with-dsa.png',
+      img:'./Images/java-with-dsa.png',
       batchName:'Decode Java with DSA Course',
       faculties: 'Vishwa Mohan and 1 more',
       startingDate: 'Starts on 10 Mar 2024',
@@ -51,7 +51,7 @@ function App() {
     },
     {
       id:'3',
-      img:'./src/assets/Images/C++-with-dsa.png',
+      img:'./Images/C++-with-dsa.png',
       batchName:'Decode C++ with DSA Course',
       faculties: 'Vishwa Mohan and 1 more',
       startingDate: 'Starts on 10 Mar 2024',
@@ -62,35 +62,35 @@ function App() {
   const ecosystemData =[
     {
       id:'1',
-      img: './src/assets/Images/products-icon1.png',
+      img: './Images/products-icon1.png',
       title: 'PW Skills Lab',
       desc: 'Buying a new PC is no longer required, Access unlimited computing power!',
 
     },
     {
       id:'2',
-      img: './src/assets/Images/products-icon2.png',
+      img: './Images/products-icon2.png',
       title: 'Experience Portal',
       desc: 'Self-paced portal prioritizes hands-on training with 570+ internship projects',
 
     },
     {
       id:'3',
-      img: './src/assets/Images/products-icon3.png',
+      img: './Images/products-icon3.png',
       title: 'Hall Of Fame',
       desc: 'Our student placements and 100K+ career transitions speak volumes.',
 
     },
     {
       id:'4',
-      img: './src/assets/Images/products-icon4.png',
+      img: './Images/products-icon4.png',
       title: 'Job Portal',
       desc: 'Use exceptional templates for a stand-out resume minus the sign up process.!',
 
     },
     {
       id:'5',
-      img: './src/assets/Images/products-icon5.png',
+      img: './Images/products-icon5.png',
       title: 'Become an affiliate',
       desc: 'Explore affiliate marketing opportunities and attain financial freedom.',
 
@@ -100,41 +100,41 @@ function App() {
 
   const OurAchivementData = [
     {
-      img: './src/assets/Images/wipro.png',
+      img: './Images/wipro.png',
     },
     {
-      img: './src/assets/Images/tata.png',
+      img: './Images/tata.png',
      
     },
     {
-      img: './src/assets/Images/verizo.png',
+      img: './Images/verizo.png',
 
     },
     {
-      img: './src/assets/Images/Swigy.png',
+      img: './Images/Swigy.png',
 
     },
     {
-      img: './src/assets/Images/unac.png',
+      img: './Images/unac.png',
 
     },
     {
-      img: './src/assets/Images/wipro.png',
+      img: './Images/wipro.png',
     },
     {
-      img: './src/assets/Images/tata.png',
+      img: './Images/tata.png',
      
     },
     {
-      img: './src/assets/Images/verizo.png',
+      img: './Images/verizo.png',
 
     },
     {
-      img: './src/assets/Images/Swigy.png',
+      img: './Images/Swigy.png',
 
     },
     {
-      img: './src/assets/Images/unac.png',
+      img: './Images/unac.png',
 
     },
   ]
@@ -144,48 +144,48 @@ function App() {
       increment:'100%',
       name:'Muzzammil Afridi',
       role:'Web Developer',
-      imgFrom:'./src/assets/Images/Swigy.png',
-      imgTo:'./src/assets/Images/redbus.png'
+      imgFrom:'./Images/Swigy.png',
+      imgTo:'./Images/redbus.png'
 
     },
     {
       increment:'50%',
       name:'Asif Iqbal',
       role:'SDE',
-      imgFrom:'./src/assets/Images/Swigy.png',
-      imgTo:'./src/assets/Images/redbus.png'
+      imgFrom:'./Images/Swigy.png',
+      imgTo:'./Images/redbus.png'
 
     },
     {
       increment:'450%',
       name:'Rehan Tahir',
       role:'Android Developer',
-      imgFrom:'./src/assets/Images/Swigy.png',
-      imgTo:'./src/assets/Images/redbus.png'
+      imgFrom:'./Images/Swigy.png',
+      imgTo:'./Images/redbus.png'
 
     },
     {
       increment:'600%',
       name:'Md Fahim Ahmad',
       role:'Data Analytic',
-      imgFrom:'./src/assets/Images/Swigy.png',
-      imgTo:'./src/assets/Images/redbus.png'
+      imgFrom:'./Images/Swigy.png',
+      imgTo:'./Images/redbus.png'
 
     },
     {
       increment:'60%',
       name:'Bibek ____',
       role:'Frontend Developer',
-      imgFrom:'./src/assets/Images/Swigy.png',
-      imgTo:'./src/assets/Images/redbus.png'
+      imgFrom:'./Images/Swigy.png',
+      imgTo:'./Images/redbus.png'
 
     },
     {
       increment:'100%',
       name:'Muzzammil Afridi',
       role:'Web Developer',
-      imgFrom:'./src/assets/Images/Swigy.png',
-      imgTo:'./src/assets/Images/redbus.png'
+      imgFrom:'./Images/Swigy.png',
+      imgTo:'./Images/redbus.png'
 
     },
    ,
@@ -193,24 +193,24 @@ function App() {
       increment:'100%',
       name:'Muzzammil Afridi',
       role:'Web Developer',
-      imgFrom:'./src/assets/Images/Swigy.png',
-      imgTo:'./src/assets/Images/redbus.png'
+      imgFrom:'./Images/Swigy.png',
+      imgTo:'./Images/redbus.png'
 
     },
     {
       increment:'100%',
       name:'Muzzammil Afridi',
       role:'Web Developer',
-      imgFrom:'./src/assets/Images/Swigy.png',
-      imgTo:'./src/assets/Images/redbus.png'
+      imgFrom:'./Images/Swigy.png',
+      imgTo:'./Images/redbus.png'
 
     },
     {
       increment:'100%',
       name:'Muzzammil Afridi',
       role:'Web Developer',
-      imgFrom:'./src/assets/Images/Swigy.png',
-      imgTo:'./src/assets/Images/redbus.png'
+      imgFrom:'./Images/Swigy.png',
+      imgTo:'./Images/redbus.png'
 
     },
   ]
@@ -235,63 +235,63 @@ function App() {
 
   const dhinchakLabData = [
     {
-      img:'./src/assets/Images/c.jpg',
+      img:'./Images/c.jpg',
       name:'C'
     },
     {
-      img:'./src/assets/Images/c++.jpg',
+      img:'./Images/c++.jpg',
       name:'C++'
     },
     {
-      img:'./src/assets/Images/go.jpg',
+      img:'./Images/go.jpg',
       name:'Go'
     },
     {
-      img:'./src/assets/Images/java.jpg',
+      img:'./Images/java.jpg',
       name:'Java'
     },
     {
-      img:'./src/assets/Images/python.jpg',
+      img:'./Images/python.jpg',
       name:'Python'
     },
     {
-      img:'./src/assets/Images/swiftPro.jpg',
+      img:'./Images/swiftPro.jpg',
       name:'Swift'
     },
     {
-      img:'./src/assets/Images/julia.jpg',
+      img:'./Images/julia.jpg',
       name:'Julia'
     },
     {
-      img:'./src/assets/Images/kotlin.jpg',
+      img:'./Images/kotlin.jpg',
       name:'Kotlin'
     },
     {
-      img:'./src/assets/Images/mongo+node.jpg',
+      img:'./Images/mongo+node.jpg',
       name:'MongoDB + Node.js'
     },
     {
-      img:'./src/assets/Images/mongo+python.jpg',
+      img:'./Images/mongo+python.jpg',
       name:'MongoDB + Python'
     },
     {
-      img:'./src/assets/Images/mysql.jpg',
+      img:'./Images/mysql.jpg',
       name:'MySQL'
     },
     {
-      img:'./src/assets/Images/mysql.jpg',
+      img:'./Images/mysql.jpg',
       name:'MySQL+Node'
     },
     {
-      img:'./src/assets/Images/Ruby.jpg',
+      img:'./Images/Ruby.jpg',
       name:'Ruby'
     },
     {
-      img:'./src/assets/Images/scala.jpg',
+      img:'./Images/scala.jpg',
       name:'Scala'
     },
     {
-      img:'./src/assets/Images/tpejs.jpg',
+      img:'./Images/tpejs.jpg',
       name:'Typescript'
     },
   ]
@@ -309,79 +309,79 @@ function App() {
 
   const companies = [
     {
-      img:"./src/assets/Images/affine.png"
+      img:"./Images/affine.png"
     },
     {
-      img:"./src/assets/Images/tataiq.png"
+      img:"./Images/tataiq.png"
     },
     {
-      img:"./src/assets/Images/cohesity.png"
+      img:"./Images/cohesity.png"
     },
     {
-      img:"./src/assets/Images/boeing.png"
+      img:"./Images/boeing.png"
     },
     {
-      img:"./src/assets/Images/bun&bradstreet.png"
+      img:"./Images/bun&bradstreet.png"
     },
     {
-      img:"./src/assets/Images/eminds.png"
+      img:"./Images/eminds.png"
     },
     {
-      img:"./src/assets/Images/freshworks.png"
+      img:"./Images/freshworks.png"
     },
     {
-      img:"./src/assets/Images/geekyants.png"
+      img:"./Images/geekyants.png"
     },
     {
-      img:"./src/assets/Images/greendeck.png"
+      img:"./Images/greendeck.png"
     },
     {
-      img:"./src/assets/Images/informatica.png"
+      img:"./Images/informatica.png"
     },
     {
-      img:"./src/assets/Images/innova.png"
+      img:"./Images/innova.png"
     },
     {
-      img:"./src/assets/Images/kpmg.png"
+      img:"./Images/kpmg.png"
     },
     {
-      img:"./src/assets/Images/learnyst.png"
+      img:"./Images/learnyst.png"
     },
     {
-      img:"./src/assets/Images/leventm.png"
+      img:"./Images/leventm.png"
     },
     {
-      img:"./src/assets/Images/livspace.png"
+      img:"./Images/livspace.png"
     },
     {
-      img:"./src/assets/Images/mindtree.png"
+      img:"./Images/mindtree.png"
     },
     {
-      img:"./src/assets/Images/musigma.png"
+      img:"./Images/musigma.png"
     },
     {
-      img:"./src/assets/Images/odessa.png"
+      img:"./Images/odessa.png"
     },
     {
-      img:"./src/assets/Images/redbus.png"
+      img:"./Images/redbus.png"
     },
     {
-      img:"./src/assets/Images/robosoft.png"
+      img:"./Images/robosoft.png"
     },
     {
-      img:"./src/assets/Images/thoughtworks.png"
+      img:"./Images/thoughtworks.png"
     },
     {
-      img:"./src/assets/Images/wellnesys.png"
+      img:"./Images/wellnesys.png"
     },
     {
-      img:"./src/assets/Images/wipro.png"
+      img:"./Images/wipro.png"
     },
     {
-      img:"./src/assets/Images/wissen.png"
+      img:"./Images/wissen.png"
     },
     {
-      img:"./src/assets/Images/zensar.png"
+      img:"./Images/zensar.png"
     },
   ]
 
@@ -490,19 +490,19 @@ function App() {
 
    const staircaseData =[
     {
-      img:"./src/assets/Images/user_default_image.png",
+      img:"./Images/user_default_image.png",
       text:"Create your profile",
       steps: "01"
 
     },
     {
-      img:"./src/assets/Images/user_default_image.png",
+      img:"./Images/user_default_image.png",
       text:"Create your profile",
       steps: "02"
 
     },
     {
-      img:"./src/assets/Images/user_default_image.png",
+      img:"./Images/user_default_image.png",
       text:"Create your profile",
       steps: "03"
 
@@ -530,295 +530,295 @@ function App() {
   
   const achiversData = [
     {
-      img:'./src/assets/Images/accenture.webp'
+      img:'./Images/accenture.webp'
     },
     {
-      img:'./src/assets/Images/adobe.webp'
+      img:'./Images/adobe.webp'
     },
     {
-      img:'./src/assets/Images/amazon.webp'
+      img:'./Images/amazon.webp'
     },
     {
-      img:'./src/assets/Images/capgemini.webp'
+      img:'./Images/capgemini.webp'
     },
     {
-      img:'./src/assets/Images/deloitte.webp'
+      img:'./Images/deloitte.webp'
     },
     {
-      img:'./src/assets/Images/ey.webp'
+      img:'./Images/ey.webp'
     },
     {
-      img:'./src/assets/Images/fractal.webp'
+      img:'./Images/fractal.webp'
     },
     {
-      img:'./src/assets/Images/ibm.webp'
+      img:'./Images/ibm.webp'
     },
     {
-      img:'./src/assets/Images/infosys.webp'
+      img:'./Images/infosys.webp'
     },
     {
-      img:'./src/assets/Images/jpmorgan.webp'
+      img:'./Images/jpmorgan.webp'
     },
     {
-      img:'./src/assets/Images/kpmg.webp'
+      img:'./Images/kpmg.webp'
     },
     {
-      img:'./src/assets/Images/microsoft.webp'
+      img:'./Images/microsoft.webp'
     },
     {
-      img:'./src/assets/Images/myntra.webp'
+      img:'./Images/myntra.webp'
     },
     {
-      img:'./src/assets/Images/oyo.webp'
+      img:'./Images/oyo.webp'
     },
     {
-      img:'./src/assets/Images/paytm.webp'
+      img:'./Images/paytm.webp'
     },
     {
-      img:'./src/assets/Images/pwc.webp'
+      img:'./Images/pwc.webp'
     },
     {
-      img:'./src/assets/Images/salesforce.webp'
+      img:'./Images/salesforce.webp'
     },
     {
-      img:'./src/assets/Images/samsung.webp'
+      img:'./Images/samsung.webp'
     },
     {
-      img:'./src/assets/Images/swiggy.webp'
+      img:'./Images/swiggy.webp'
     },
     {
-      img:'./src/assets/Images/tcs.webp'
+      img:'./Images/tcs.webp'
     },
     {
-      img:'./src/assets/Images/tvs.webp'
+      img:'./Images/tvs.webp'
     },
     {
-      img:'./src/assets/Images/vmware.webp'
+      img:'./Images/vmware.webp'
     },
     {
-      img:'./src/assets/Images/walmart.webp'
+      img:'./Images/walmart.webp'
     },
     {
-      img:'./src/assets/Images/wipro.webp'
+      img:'./Images/wipro.webp'
     },
     {
-      img:'./src/assets/Images/zomato.webp'
+      img:'./Images/zomato.webp'
     },
   ]
 
   const achPeopleData =[
     {
-      img:'./src/assets/Images/AchFirst.jpeg',
+      img:'./Images/AchFirst.jpeg',
       details: 'Hi All, I am a student of the NOV 2021 batch, I made a good decision by joining the Ineuron classes. A very big thank you to the entire ineuron team And special thanks to Krish Naik and Sudhanshu. It was',
       name:'SUNIL RAMESH DODDAMANI',
       companyName:'Statistician 2, Epsilon'
     },
     {
-      img:'./src/assets/Images/AchSecond.jpeg',
+      img:'./Images/AchSecond.jpeg',
       details: 'Hello everyone I am an undergraduate from SRM University. I got placed in the Tredence Analytics it is all because of the excellent course called full stack data scientist in the ineuron. I enrolled the',
       name:'sai krishna gorantla',
       companyName:'Data Analyst, Tredence Analytics'
     },
     {
-      img:'./src/assets/Images/AchThird.jpeg',
+      img:'./Images/AchThird.jpeg',
       details: 'Ineuron.ai came into existence exactly when I needed it the most. It helped me transition into Data science as Senior Data Engineer at blazeclan technologies and with the help of ineuron courses',
       name:'Dharmendra kumar Yadav',
       companyName:'Data Scientist Associate, Cognizant'
     },
     {
-      img:'./src/assets/Images/AchFourth.jpeg',
+      img:'./Images/AchFourth.jpeg',
       details: 'Ineuron.ai came into existence exactly when I needed it the most. It helped me transition into Data science as Senior Data Engineer at blazeclan technologies and with the help of ineuron courses',
       name:'SUNIL RAMESH DODDAMANI',
       companyName:'Statistician 2, Epsilon'
     },
     {
-      img:'./src/assets/Images/AchFifth.jpeg',
+      img:'./Images/AchFifth.jpeg',
       details: 'I have studied from krish YouTube videos and ineuron, which helped me to understand the thorough concepts.',
       name:'Ayushman Misra',
       companyName:'Statistician 2, Epsilon'
     },
     {
-      img:'./src/assets/Images/AchSixth.jpeg',
+      img:'./Images/AchSixth.jpeg',
       details: 'Before Joining iNueron FSDS Course i knew nothing about DS. thank you Sudhanshu Kumar For making it possible for a. Guy from Non Technical background to become a Data Scientist',
       name:'Somesh Chitranshi',
       companyName:'Data Scientist, NTT Data Services'
     },
     {
-      img:'./src/assets/Images/AchSeventh.jpeg',
+      img:'./Images/AchSeventh.jpeg',
       details: 'I started my career as Data Analyst i worked for 3 years as data analyst after that i met with an accident and took rest for 2 years . After 2 years i took training for data scientist from ineuron and',
       name:'Retin P Kumar',
       companyName:'AI Engineer, Accenture'
     },
     {
-      img:'./src/assets/Images/AchEight.jpeg',
+      img:'./Images/AchEight.jpeg',
       details: 'I was just like one of those government job aspirants (without any vision or guidance) who ended up spending years of their life behind exams like UPSC, SSC, etc, and ended up dead broke and',
       name:'SUNIL RAMESH DODDAMANI',
       companyName:'Senior Software Engineer, IBM'
     },
     {
-      img:'./src/assets/Images/AchNine.jpeg',
+      img:'./Images/AchNine.jpeg',
       details: 'I have studied from krish YouTube videos and ineuron, which helped me to understand the thorough concepts.',
       name:'Ayushman Misra',
       companyName:'Statistician 2, Epsilon'
     },
     {
-      img:'./src/assets/Images/AchTen.jpeg',
+      img:'./Images/AchTen.jpeg',
       details: 'Before Joining iNueron FSDS Course i knew nothing about DS. thank you Sudhanshu Kumar For making it possible for a. Guy from Non Technical background to become a Data Scientist',
       name:'Somesh Chitranshi',
       companyName:'Data Scientist, NTT Data Services'
     },
     {
-      img:'./src/assets/Images/AchEleven.jpeg',
+      img:'./Images/AchEleven.jpeg',
       details: 'I started my career as Data Analyst i worked for 3 years as data analyst after that i met with an accident and took rest for 2 years . After 2 years i took training for data scientist from ineuron and',
       name:'Retin P Kumar',
       companyName:'AI Engineer, Accenture'
     },
     {
-      img:'./src/assets/Images/AchTwelve.jpeg',
+      img:'./Images/AchTwelve.jpeg',
       details: 'I was just like one of those government job aspirants (without any vision or guidance) who ended up spending years of their life behind exams like UPSC, SSC, etc, and ended up dead broke and',
       name:'SUNIL RAMESH DODDAMANI',
       companyName:'Senior Software Engineer, IBM'
     },
     {
-      img:'./src/assets/Images/AchFirst.jpeg',
+      img:'./Images/AchFirst.jpeg',
       details: 'Hi All, I am a student of the NOV 2021 batch, I made a good decision by joining the Ineuron classes. A very big thank you to the entire ineuron team And special thanks to Krish Naik and Sudhanshu. It was',
       name:'SUNIL RAMESH DODDAMANI',
       companyName:'Statistician 2, Epsilon'
     },
     {
-      img:'./src/assets/Images/AchSecond.jpeg',
+      img:'./Images/AchSecond.jpeg',
       details: 'Hello everyone I am an undergraduate from SRM University. I got placed in the Tredence Analytics it is all because of the excellent course called full stack data scientist in the ineuron. I enrolled the',
       name:'sai krishna gorantla',
       companyName:'Data Analyst, Tredence Analytics'
     },
     {
-      img:'./src/assets/Images/AchThird.jpeg',
+      img:'./Images/AchThird.jpeg',
       details: 'Ineuron.ai came into existence exactly when I needed it the most. It helped me transition into Data science as Senior Data Engineer at blazeclan technologies and with the help of ineuron courses',
       name:'Dharmendra kumar Yadav',
       companyName:'Data Scientist Associate, Cognizant'
     },
     {
-      img:'./src/assets/Images/AchFourth.jpeg',
+      img:'./Images/AchFourth.jpeg',
       details: 'Ineuron.ai came into existence exactly when I needed it the most. It helped me transition into Data science as Senior Data Engineer at blazeclan technologies and with the help of ineuron courses',
       name:'SUNIL RAMESH DODDAMANI',
       companyName:'Statistician 2, Epsilon'
     },
     {
-      img:'./src/assets/Images/AchFifth.jpeg',
+      img:'./Images/AchFifth.jpeg',
       details: 'I have studied from krish YouTube videos and ineuron, which helped me to understand the thorough concepts.',
       name:'Ayushman Misra',
       companyName:'Statistician 2, Epsilon'
     },
     {
-      img:'./src/assets/Images/AchSixth.jpeg',
+      img:'./Images/AchSixth.jpeg',
       details: 'Before Joining iNueron FSDS Course i knew nothing about DS. thank you Sudhanshu Kumar For making it possible for a. Guy from Non Technical background to become a Data Scientist',
       name:'Somesh Chitranshi',
       companyName:'Data Scientist, NTT Data Services'
     },
     {
-      img:'./src/assets/Images/AchSeventh.jpeg',
+      img:'./Images/AchSeventh.jpeg',
       details: 'I started my career as Data Analyst i worked for 3 years as data analyst after that i met with an accident and took rest for 2 years . After 2 years i took training for data scientist from ineuron and',
       name:'Retin P Kumar',
       companyName:'AI Engineer, Accenture'
     },
     {
-      img:'./src/assets/Images/AchEight.jpeg',
+      img:'./Images/AchEight.jpeg',
       details: 'I was just like one of those government job aspirants (without any vision or guidance) who ended up spending years of their life behind exams like UPSC, SSC, etc, and ended up dead broke and',
       name:'SUNIL RAMESH DODDAMANI',
       companyName:'Senior Software Engineer, IBM'
     },
     {
-      img:'./src/assets/Images/AchNine.jpeg',
+      img:'./Images/AchNine.jpeg',
       details: 'I have studied from krish YouTube videos and ineuron, which helped me to understand the thorough concepts.',
       name:'Ayushman Misra',
       companyName:'Statistician 2, Epsilon'
     },
     {
-      img:'./src/assets/Images/AchTen.jpeg',
+      img:'./Images/AchTen.jpeg',
       details: 'Before Joining iNueron FSDS Course i knew nothing about DS. thank you Sudhanshu Kumar For making it possible for a. Guy from Non Technical background to become a Data Scientist',
       name:'Somesh Chitranshi',
       companyName:'Data Scientist, NTT Data Services'
     },
     {
-      img:'./src/assets/Images/AchEleven.jpeg',
+      img:'./Images/AchEleven.jpeg',
       details: 'I started my career as Data Analyst i worked for 3 years as data analyst after that i met with an accident and took rest for 2 years . After 2 years i took training for data scientist from ineuron and',
       name:'Retin P Kumar',
       companyName:'AI Engineer, Accenture'
     },
     {
-      img:'./src/assets/Images/AchTwelve.jpeg',
+      img:'./Images/AchTwelve.jpeg',
       details: 'I was just like one of those government job aspirants (without any vision or guidance) who ended up spending years of their life behind exams like UPSC, SSC, etc, and ended up dead broke and',
       name:'SUNIL RAMESH DODDAMANI',
       companyName:'Senior Software Engineer, IBM'
     },
     {
-      img:'./src/assets/Images/AchFirst.jpeg',
+      img:'./Images/AchFirst.jpeg',
       details: 'Hi All, I am a student of the NOV 2021 batch, I made a good decision by joining the Ineuron classes. A very big thank you to the entire ineuron team And special thanks to Krish Naik and Sudhanshu. It was',
       name:'SUNIL RAMESH DODDAMANI',
       companyName:'Statistician 2, Epsilon'
     },
     {
-      img:'./src/assets/Images/AchSecond.jpeg',
+      img:'./Images/AchSecond.jpeg',
       details: 'Hello everyone I am an undergraduate from SRM University. I got placed in the Tredence Analytics it is all because of the excellent course called full stack data scientist in the ineuron. I enrolled the',
       name:'sai krishna gorantla',
       companyName:'Data Analyst, Tredence Analytics'
     },
     {
-      img:'./src/assets/Images/AchThird.jpeg',
+      img:'./Images/AchThird.jpeg',
       details: 'Ineuron.ai came into existence exactly when I needed it the most. It helped me transition into Data science as Senior Data Engineer at blazeclan technologies and with the help of ineuron courses',
       name:'Dharmendra kumar Yadav',
       companyName:'Data Scientist Associate, Cognizant'
     },
     {
-      img:'./src/assets/Images/AchFourth.jpeg',
+      img:'./Images/AchFourth.jpeg',
       details: 'Ineuron.ai came into existence exactly when I needed it the most. It helped me transition into Data science as Senior Data Engineer at blazeclan technologies and with the help of ineuron courses',
       name:'SUNIL RAMESH DODDAMANI',
       companyName:'Statistician 2, Epsilon'
     },
     {
-      img:'./src/assets/Images/AchFifth.jpeg',
+      img:'./Images/AchFifth.jpeg',
       details: 'I have studied from krish YouTube videos and ineuron, which helped me to understand the thorough concepts.',
       name:'Ayushman Misra',
       companyName:'Statistician 2, Epsilon'
     },
     {
-      img:'./src/assets/Images/AchSixth.jpeg',
+      img:'./Images/AchSixth.jpeg',
       details: 'Before Joining iNueron FSDS Course i knew nothing about DS. thank you Sudhanshu Kumar For making it possible for a. Guy from Non Technical background to become a Data Scientist',
       name:'Somesh Chitranshi',
       companyName:'Data Scientist, NTT Data Services'
     },
     {
-      img:'./src/assets/Images/AchSeventh.jpeg',
+      img:'./Images/AchSeventh.jpeg',
       details: 'I started my career as Data Analyst i worked for 3 years as data analyst after that i met with an accident and took rest for 2 years . After 2 years i took training for data scientist from ineuron and',
       name:'Retin P Kumar',
       companyName:'AI Engineer, Accenture'
     },
     {
-      img:'./src/assets/Images/AchEight.jpeg',
+      img:'./Images/AchEight.jpeg',
       details: 'I was just like one of those government job aspirants (without any vision or guidance) who ended up spending years of their life behind exams like UPSC, SSC, etc, and ended up dead broke and',
       name:'SUNIL RAMESH DODDAMANI',
       companyName:'Senior Software Engineer, IBM'
     },
     {
-      img:'./src/assets/Images/AchNine.jpeg',
+      img:'./Images/AchNine.jpeg',
       details: 'I have studied from krish YouTube videos and ineuron, which helped me to understand the thorough concepts.',
       name:'Ayushman Misra',
       companyName:'Statistician 2, Epsilon'
     },
     {
-      img:'./src/assets/Images/AchTen.jpeg',
+      img:'./Images/AchTen.jpeg',
       details: 'Before Joining iNueron FSDS Course i knew nothing about DS. thank you Sudhanshu Kumar For making it possible for a. Guy from Non Technical background to become a Data Scientist',
       name:'Somesh Chitranshi',
       companyName:'Data Scientist, NTT Data Services'
     },
     {
-      img:'./src/assets/Images/AchEleven.jpeg',
+      img:'./Images/AchEleven.jpeg',
       details: 'I started my career as Data Analyst i worked for 3 years as data analyst after that i met with an accident and took rest for 2 years . After 2 years i took training for data scientist from ineuron and',
       name:'Retin P Kumar',
       companyName:'AI Engineer, Accenture'
     },
     {
-      img:'./src/assets/Images/AchTwelve.jpeg',
+      img:'./Images/AchTwelve.jpeg',
       details: 'I was just like one of those government job aspirants (without any vision or guidance) who ended up spending years of their life behind exams like UPSC, SSC, etc, and ended up dead broke and',
       name:'SUNIL RAMESH DODDAMANI',
       companyName:'Senior Software Engineer, IBM'
@@ -831,7 +831,7 @@ function App() {
   const req = "Are you a recruiter?"
 
 
-  const img = './src/assets/Images/PWSkills-white.png'
+  const img = './Images/PWSkills-white.png'
 
   const [count, setCount] = useState(0)
 

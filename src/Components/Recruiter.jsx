@@ -7,24 +7,24 @@ const Recruiter = () => {
         <p className='mt-3 text-xl'>Here's why</p>
         <div className="sm:flex flex-row-reverse">
             <div className="">
-                <img src="./src/assets/Images/recruiter-love-portal-side.png" alt="img" />
+                <img src="./Images/recruiter-love-portal-side.png" alt="img" />
             </div>
             <div>
             <div className="">
                 <div className="flex gap-5 mb-6 mt-10 items-center">
-                <img src="./src/assets/Images/graph-icon.png" alt="" />
+                <img src="./Images/graph-icon.png" alt="" />
                 <p className='w-[65vw]  text-lg font-semibold'>Recruiters get rewards after their job is verified by PW Skills</p>
                 </div>
             </div>
             <div className="">
                 <div className="flex gap-5 mb-6 items-center">
-                <img src="./src/assets/Images/hand-meet.png" alt="" />
+                <img src="./Images/hand-meet.png" alt="" />
                 <p className='w-[65vw]  text-lg font-semibold'>Recruiters receive rewards after candidates get hired</p>
                 </div>
             </div>
             <div className="">
                 <div className="flex gap-5 items-center">
-                <img src="./src/assets/Images/document-icon.png" alt="img" />
+                <img src="./Images/document-icon.png" alt="img" />
                 <p className='w-[65vw]  text-lg font-semibold'>Hire job-ready candidates and save recruitment time</p>
                 </div>
             </div>
